@@ -17,6 +17,7 @@
 ### 👨‍💻 About Me
 - 🎓 **BSc in Informatics & Telematics** – Harokopio University, Athens
 - 💻 Full-stack dev using **.NET & Angular**
+- 🎮 Some games I made for fun and uploaded in [itch.io](https://judge-g.itch.io/)
 - 📫 Reach me at: **englezosgiorgos@gmail.com**
 
 ---
@@ -24,6 +25,7 @@
 ### 🏆 Achievements & Projects
 - 🚀 **[Scrcpy-GUI (.NET MAUI)](https://github.com/GeorgeEnglezos/Scrcpy-GUI)** – Portable desktop app simplifying scrcpy usage  
   ⭐ 150+ GitHub stars | Featured in Android emulation/dev communities
+- 🛸 **[Stellaroid](https://judge-g.itch.io/stellaroid)** - A fun little game demo I uploaded in itch.io a few years ago
 
   <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&title=Stars,Commits,Repositories,Followers&theme=onedark" alt="GitHub Trophies" />
