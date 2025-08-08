@@ -25,9 +25,10 @@
 ### 🏆 Achievements & Projects
 - 🚀 **[Scrcpy-GUI (.NET MAUI)](https://github.com/GeorgeEnglezos/Scrcpy-GUI)** – Portable desktop app simplifying scrcpy usage  
   ⭐ 150+ GitHub stars | Featured in Android emulation/dev communities
-- 🛸 **[Stellaroid](https://judge-g.itch.io/stellaroid)** - A fun little game demo I uploaded in itch.io a few years ago
+  <div>
+- 🛸 **[Stellaroid](https://judge-g.itch.io/stellaroid)** <a href="https://judge-g.itch.io/stellaroid"><img src="https://img.itch.zone/aW1nLzkyMTI3ODMucG5n/original/wcLOFq.png" alt="Stellaroid on itch.io" width="20"></a>  - A fun little game demo I uploaded in itch.io a few years ago
 
-  <p align="left">
+<p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&title=Stars,Commits,Repositories,Followers&theme=onedark" alt="GitHub Trophies" />
   </p>
   
