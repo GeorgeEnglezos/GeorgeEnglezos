@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm George Englezos</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/englezos-george/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/GeorgeEnglezos" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm George Englezos 
+    <a href="https://github.com/GeorgeEnglezos" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    </a>
+  </h1>
+  <h3>Full-Stack Software Engineer 
+    <a href="https://www.linkedin.com/in/englezos-george/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" />
+    </a>
+  </h3>
+</div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=georgeenglezos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 <p align="left">
@@ -17,19 +18,23 @@
 
 ---
 
-### 🔹 About Me
+### 👨‍💻 About Me
 - 🎓 **BSc in Informatics & Telematics** – Harokopio University, Athens
 - 💻 Full-stack dev using **.NET & Angular**
 - 📫 Reach me at: **englezosgiorgos@gmail.com**
 
 ---
 
-### 🔹 Achievements & Projects
+### 🏆 Achievements & Projects
 - 🚀 **[Scrcpy-GUI (.NET MAUI)](https://github.com/GeorgeEnglezos/Scrcpy-GUI)** – Portable desktop app simplifying scrcpy usage  
   ⭐ 150+ GitHub stars | Featured in Android emulation/dev communities
+
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&title=Stars,Commits,Repositories,Followers&theme=gruvbox&theme=tokyonight" alt="GitHub Trophies" /
+  </p>  
 ---
 
-### 🔹 Technical Skills
+### 🧠 Technical Skills
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,11 +53,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used languages" />
+</div>
 </p>
 
 ---
 
-### 🔹 Future Tech Exploration
+### 🔮 Future Tech Exploration
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -67,20 +75,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
-
----
-
-###
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used languages" />
-</p>
-
-
-###
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&title=Stars,Commits,Repositories,Followers&theme=gruvbox&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
 
 
 <!--
