@@ -1,12 +1,8 @@
 <div align="center">
-  <h1>Hi 👋, I'm George Englezos 
-    <a href="https://github.com/GeorgeEnglezos" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-    </a>
-  </h1>
+  <h1>Hi 👋, I'm George Englezos </h1>
   <h3>Full-Stack Software Engineer 
     <a href="https://www.linkedin.com/in/englezos-george/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="17" width="25" />
     </a>
   </h3>
 </div>
