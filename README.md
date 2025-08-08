@@ -30,8 +30,9 @@
   ⭐ 150+ GitHub stars | Featured in Android emulation/dev communities
 
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&title=Stars,Commits,Repositories,Followers&theme=gruvbox&theme=tokyonight" alt="GitHub Trophies" /
-  </p>  
+<img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&title=Stars,Commits,Repositories,Followers&theme=onedark" alt="GitHub Trophies" />
+  </p>
+  
 ---
 
 ### 🧠 Technical Skills
@@ -54,8 +55,8 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used languages" />
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used languages" />
+  </div>
 </p>
 
 ---
