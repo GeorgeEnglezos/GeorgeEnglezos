@@ -33,8 +33,8 @@
   <div>
 - 🛸 **[Stellaroid](https://judge-g.itch.io/stellaroid)** <a href="https://judge-g.itch.io/stellaroid"><img src="https://img.itch.zone/aW1nLzkyMTI3ODMucG5n/original/wcLOFq.png" alt="Stellaroid on itch.io" width="20"></a>  - A fun little game demo I uploaded in itch.io a few years ago
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&title=Stars,Commits,Repositories,Followers&theme=onedark&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&theme=onedark&no-bg=true=ryo-ma&rank=-C,-B,-?&margin-w=15" alt="GitHub Trophies" />
 </p>
   
 ---
