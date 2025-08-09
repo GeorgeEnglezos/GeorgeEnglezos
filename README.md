@@ -15,12 +15,17 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **BSc in Informatics & Telematics** – Harokopio University, Athens
-- 💻 Full-stack dev using **.NET & Angular**
-- 🎮 Some games I made for fun and uploaded in [itch.io](https://judge-g.itch.io/)
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeEnglezos&theme=tokyonight" alt="GeorgeEnglezos Streak" width="400" />
+
+- 🎓 **BSc in Informatics & Telematics** – Harokopio University, Athens  
+- 💻 Full-stack dev using **.NET & Angular**  
+- 🎮 Some games I made for fun and uploaded in [itch.io](https://judge-g.itch.io/)  
 - 📫 Reach me at: **englezosgiorgos@gmail.com**
+  
+<br/>
 
 ---
+
 
 ### 🏆 Achievements & Projects
 - 🚀 **[Scrcpy-GUI (.NET MAUI)](https://github.com/GeorgeEnglezos/Scrcpy-GUI)** – Portable desktop app simplifying scrcpy usage  
@@ -35,7 +40,8 @@
 ---
 
 ### 🧠 Technical Skills
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=00000000" alt="Most used languages" width="40%" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=00000000" alt="Most used languages" width="30%" />
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -84,9 +90,13 @@
   </div>
 </p>->
 -->
+<br>
+<br>
+
 ---
 
 ### 🔮 Future Tech Exploration
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
