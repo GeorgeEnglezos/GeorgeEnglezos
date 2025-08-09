@@ -41,9 +41,9 @@
 
 ### 🧠 Technical Skills
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=00000000" alt="Most used languages" width="30%" />
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeenglezos&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=00000000" alt="Most used languages" width="30%" />
 
-<p>
+<p >
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
