@@ -19,7 +19,7 @@
 
 - 🎓 **BSc in Informatics & Telematics** – Harokopio University, Athens  
 - 💻 Full-stack dev using **.NET & Angular**  
-- 🎮 Some games I made for fun and uploaded in [itch.io](https://judge-g.itch.io/)  
+- 🎮 Some mini games I made to explore Unity and uploaded in [itch.io](https://judge-g.itch.io/)  
 - 📫 Reach me at: **englezosgiorgos@gmail.com**
   
 <br/>
