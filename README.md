@@ -31,7 +31,7 @@
 - 🖥️ **[Scrcpy-GUI (.NET MAUI)](https://github.com/GeorgeEnglezos/Scrcpy-GUI)**: Portable desktop app simplifying scrcpy usage  
   ⭐ 150+ GitHub stars | Featured in Android emulation/dev communities
   <div>
-- 🌐 **[Scrpy-gui-web](https://scrcpy-ui.web.app/)**: Work-in-progress web application built with **Angular** similar to the desktop app. Import packages, codecs, and commands for the full experience. No login required, everything is saved locally in the browser
+- 🌐 **[Scrpy-ui.web.app](https://scrcpy-ui.web.app/)**: Work-in-progress web application built with **Angular** similar to the desktop app. Import packages, codecs, and commands for the full experience. No login required, everything is saved locally in the browser
 - 🛸 **[Stellaroid](https://judge-g.itch.io/stellaroid)** <a href="https://judge-g.itch.io/stellaroid"><img src="https://img.itch.zone/aW1nLzkyMTI3ODMucG5n/original/wcLOFq.png" alt="Stellaroid on itch.io" width="20"></a>: A fun little game demo I uploaded in itch.io a few years ago
 
 <p align="center">  
