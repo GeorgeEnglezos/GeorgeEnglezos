@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm George Englezos </h1>
+  <h1>Hi 👋, I'm George </h1>
   <h3>Full-Stack Software Engineer 
     <a href="https://www.linkedin.com/in/englezos-george/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="17" width="25" />
