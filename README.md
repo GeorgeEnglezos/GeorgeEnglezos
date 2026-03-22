@@ -28,7 +28,7 @@
 
 
 ### 🏆 Personal Projects
-- 🖥️ **[Scrcpy-GUI (.NET MAUI)](https://github.com/GeorgeEnglezos/Scrcpy-GUI)**: Portable desktop app simplifying scrcpy usage  
+- 🖥️ **[Scrcpy-GUI (~.NET MAUI~ Flutter)](https://github.com/GeorgeEnglezos/Scrcpy-GUI)**: Portable desktop app simplifying scrcpy usage  
   ⭐ 150+ GitHub stars | Featured in Android emulation/dev communities
   <div>
 - 🌐 **[Scrpy-ui.web.app](https://scrcpy-ui.web.app/)**: Work-in-progress web application built with **Angular** similar to the desktop app. Import packages, codecs, and commands for the full experience. No login required, everything is saved locally in the browser
@@ -65,8 +65,7 @@
 </p>
 <br>
 <br>
-
----
+<!--
 
 ### 🔮 Future Tech Exploration
 
@@ -81,7 +80,7 @@
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
 
-
+-->
 <!--
 ###
 <p align="left">
