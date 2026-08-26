@@ -5,11 +5,8 @@
     <a href="https://www.linkedin.com/in/englezos-george/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:englezosgiorgos@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=englezosgiorgos@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://judge-g.itch.io/" target="_blank">
-      <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" />
     </a>
   </p>
   <img src="https://komarev.com/ghpvc/?username=georgeenglezos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
