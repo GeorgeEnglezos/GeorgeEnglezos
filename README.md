@@ -19,28 +19,34 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://streak-stats.demolab.com/?user=GeorgeEnglezos&theme=tokyonight" alt="GitHub streak" width="400" />
-
 - 🎓 **BSc in Informatics & Telematics** – Harokopio University, Athens
 - 💻 Full-stack engineer working across **.NET** on the backend and **Angular / React** on the frontend
 - 🎮 App and game development is my hobby: cross-platform apps with **Flutter** and mini games in **Unity**, some published on [itch.io](https://judge-g.itch.io/)
 - 📫 Reach me at **englezosgiorgos@gmail.com**
 
-<br clear="right" />
-
 ---
 
 ### 🏆 Personal Projects
 
-- 🖥️ **[Scrcpy-GUI](https://github.com/GeorgeEnglezos/Scrcpy-GUI)** *(Flutter)* – Portable desktop app that makes `scrcpy` easy to use.
-  ⭐ 450+ GitHub stars · featured in Android emulation and dev communities
+- 🖥️ **[Scrcpy-GUI](https://github.com/GeorgeEnglezos/Scrcpy-GUI)** *(Flutter)* – Desktop app that makes `scrcpy` easy to use.  ⭐ 450+ GitHub stars · featured in Android emulation and dev communities
 - 🌐 **[scrcpy-ui.web.app](https://scrcpy-ui.web.app/)** *(Angular)* – Web version of the desktop app (work in progress). Import packages, codecs, and commands for the full experience. No login required; everything is saved locally in the browser.
 - 🎯 **[RetroAchievements ROM Manager](https://github.com/GeorgeEnglezos/retroachievements-rom-manager)** *(Flutter)* – Scans your local ROM library and tracks your RetroAchievements progress, achievement counts, and completion.
 - 🛸 **[Stellaroid](https://judge-g.itch.io/stellaroid)** *(Unity)* – A small arcade game demo published on itch.io.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=georgeenglezos&theme=onedark&no-bg=true&no-frame=true&rank=-C,-B,-?&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img alt="Scrcpy-GUI in action" src="docs/scrcpy-app-tour.gif" /><br />
+        <sub><em>Scrcpy-GUI</em></sub>
+      </td>
+      <td align="center" width="50%">
+        <img alt="RetroAchievements ROM Manager in action" src="docs/rarm-app-tour.gif" /><br />
+        <sub><em>RetroAchievements ROM Manager</em></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -84,8 +90,4 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgeenglezos&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
-</p>
--->
+---
